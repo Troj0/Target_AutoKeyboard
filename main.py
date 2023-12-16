@@ -8,7 +8,7 @@ import win32con
 import key_dict
 import pyautogui
 
-target_window_title = "Rappelz"
+target_window_title = "GUI Name"
 shouldStop = False
 
 
